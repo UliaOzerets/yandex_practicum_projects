@@ -6,6 +6,8 @@
 
 Пайплайн уже разработан дата-инженерами.
 
+Ссылка на дашборд - https://public.tableau.com/app/profile/.71835970/viz/newdashboard_16906976393900/Dashboard1
+
 # Заключение
 
 В результате:
